@@ -1,0 +1,38 @@
+/************************************************** Normal Styles *******************************************/
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+/************************************************* Class Styles ********************************************/
+
+.red {
+    background-color: red;
+    height:200px;
+    width: 200px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 400px;
+    
+}
+
+.blue {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+}
+
+.yellow {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    margin-left: none;
+    margin-top:none;
+   
+}
